@@ -1,0 +1,10 @@
+C:\Users\NOUR\source\repos\encrypte_1\encrypte_1\bin\Debug\encrypte_1.exe.config
+C:\Users\NOUR\source\repos\encrypte_1\encrypte_1\bin\Debug\encrypte_1.exe
+C:\Users\NOUR\source\repos\encrypte_1\encrypte_1\bin\Debug\encrypte_1.pdb
+C:\Users\NOUR\source\repos\encrypte_1\encrypte_1\obj\Debug\encrypte_1.csprojAssemblyReference.cache
+C:\Users\NOUR\source\repos\encrypte_1\encrypte_1\obj\Debug\encrypte_1.Form1.resources
+C:\Users\NOUR\source\repos\encrypte_1\encrypte_1\obj\Debug\encrypte_1.Properties.Resources.resources
+C:\Users\NOUR\source\repos\encrypte_1\encrypte_1\obj\Debug\encrypte_1.csproj.GenerateResource.cache
+C:\Users\NOUR\source\repos\encrypte_1\encrypte_1\obj\Debug\encrypte_1.csproj.CoreCompileInputs.cache
+C:\Users\NOUR\source\repos\encrypte_1\encrypte_1\obj\Debug\encrypte_1.exe
+C:\Users\NOUR\source\repos\encrypte_1\encrypte_1\obj\Debug\encrypte_1.pdb
